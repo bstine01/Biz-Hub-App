@@ -1,7 +1,11 @@
 {
+  "scripts": {
+  "build": "your-build-script-here"
+}
   "dependencies": {
     "firebase": "^11.9.1",
     "lucide-react": "^0.522.0",
     "recharts": "^3.0.0"
   }
 }
+
