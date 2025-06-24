@@ -1,9 +1,5 @@
-{
-  "dependencies": {
-    "firebase": "^11.9.1",
-    "lucide-react": "^0.522.0",
-    "recharts": "^3.0.0"
-  }
+
+{    
   "name": "biz-hub-app",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +11,10 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "firebase": "^11.9.1",
+    "lucide-react": "^0.522.0",
+    "recharts": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,3 +41,5 @@
     ]
   }
 }
+
+
